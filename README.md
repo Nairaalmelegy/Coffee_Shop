@@ -1,0 +1,1 @@
+This project is about designing a website responsive for all devices like mobile tablet and desktop
